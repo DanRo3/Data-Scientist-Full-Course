@@ -190,3 +190,5 @@ La última parte es la implementación. Definitivamente, ya sea que seas nuevo o
 Así que sigue practicando y mejorando tus conocimientos día a día. A continuación, se muestra una representación esquemática completa de la hoja de ruta del científico de datos.
 
 ![Data-Science-Roadmap](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204213645/Data-Science-Roadmap.png)
+
+[Descarga la ruta en pdf](Recursos/Data%20Scientist%20Roadmap%202024.pdf)
